@@ -4,9 +4,9 @@ Ce projet présente toutes les librairies et csv issu de scraping afin de répon
 
 La prédiction de la victoire d'une équipe d'un match de ligue 1.
 
-Pour ce faire une application fût créer afin de rentrer le nom des équipes ainsi que leurs côtes (à récupérer sur un site de paris).
+Pour ce faire une application fût créée ou l'utilisateur rentre le nom des équipes ainsi que leurs côtes (à récupérer sur un site de paris).
 
-L'application fera ressortir les statistiques des deux équipes ainsi que la force de prédiction de victoire pour une équipe à domicile ou à l'extérieur.
+L'application fera ressortir les statistiques des deux équipes ainsi que la force de prédiction de la victoire pour une équipe à domicile ou à l'extérieur.
 
 Toutes les étapes du projets sont résumées dans le notebook.
 
