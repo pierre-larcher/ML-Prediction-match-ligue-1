@@ -8,7 +8,7 @@ Pour ce faire une application fût créer afin de rentrer le nom des équipes ai
 
 L'application fera ressortir les statistiques des deux équipes ainsi que la force de prédiction de victoire pour une équipe à domicile ou à l'extérieur.
 
-Un exemple de l'utilisation de l'application peut être téléchargé depuis Exemple.mov.
+Un exemple de l'utilisation de l'application peut être téléchargé depuis Démonstration.mov.
 
 Toutes les étapes du projets sont résumées dans le notebook.
 
