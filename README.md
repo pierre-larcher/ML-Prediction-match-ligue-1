@@ -7,3 +7,6 @@ La prédiction de la victoire d'un match de ligue 1.
 Pour ce faire une application fût créer afin de rentrer le nom des équipes ainsi que leurs côtes (à récupérer sur un site de paris).
 
 L'application fera ressortir les statistiques des deux équipes ainsi que la force de prédiction pour une équipe à domicile ou à l'extérieur.
+
+Un exemple de l'utilisation de l'application peut être téléchargé depuis Exemple.mov.
+
