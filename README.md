@@ -1,6 +1,6 @@
 # ML-Prediction-match-ligue-1
 
-Ce projet présente toutes les librairies et csv afin de répondre à la problématique qui est:
+Ce projet présente toutes les librairies et csv issu de scraping afin de répondre à la problématique qui est:
 
 La prédiction de la victoire d'une équipe d'un match de ligue 1.
 
