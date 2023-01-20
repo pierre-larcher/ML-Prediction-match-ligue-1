@@ -10,5 +10,5 @@ L'application fera ressortir les statistiques des deux équipes ainsi que la for
 
 Un exemple de l'utilisation de l'application peut être téléchargé depuis Exemple.mov.
 
-Toutes les étapes du projets sont résumées dans le notebook du projet.
+Toutes les étapes du projets sont résumées dans le notebook.
 
